@@ -1,0 +1,8 @@
+>seq1	
+TATGCTGTTGCC
+>seq2	
+ACTGTGGGATGC
+>seq3	
+ATGCTTTCGGTTTG
+>seq4	
+aaattgct
