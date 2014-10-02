@@ -1,5 +1,0 @@
-#!/usr/bin/env ruby
-File.open("DNAfile.txt", "w") do |f|
-	puts f.gets
-	f.close
-	
