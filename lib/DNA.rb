@@ -19,5 +19,3 @@ class DNA
 	end
 
 end
-
-

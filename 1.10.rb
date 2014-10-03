@@ -14,4 +14,3 @@ File.open("DNAfile2.txt").each do |line|
 end
 
 
-
