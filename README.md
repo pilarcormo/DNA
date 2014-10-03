@@ -21,7 +21,7 @@ end`
 	* A test_suite script is created to test the code previously developed. 
 
 
-3. **Using [BioRuby](http://bioruby.org) to do the same task by following the [Sample Codes in this link](http://bioruby.open-bio.org/wiki/SampleCodes#Introduction)**. In this case, a multiFASTA file is used as input. 
+3. **Using [BioRuby](http://bioruby.org) to do the same task by following the [Sample Codes](http://bioruby.open-bio.org/wiki/SampleCodes#Introduction)**. In this case, a multiFASTA file is used as input. 
 
 
 
