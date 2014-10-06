@@ -3,7 +3,9 @@
 
 *The aim of this practice task was to learn how to build classes in Ruby and to create a method that could be used to obtain the reverse complement of a DNA sequence.* 
  - - - 
- ![Reverse complement][1] *Reverse complement*
+ ![Reverse complement][1] 
+ 
+ *Reverse complement*
  - - - 
 
 [1]: http://rosalind.info/media/reverse_complement.png
